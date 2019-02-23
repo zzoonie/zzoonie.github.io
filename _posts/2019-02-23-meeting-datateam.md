@@ -1,4 +1,11 @@
 ---
+layout: post
+title:  "출판자료팀 회의"
+date:   2019-02-17
+description: 2019년 2월 17일 회의 자료
+---
+
+---
 title: "출판자료팀 회의"
 date: 2019-02-17 17:00:00
 categories: datateam meeting
